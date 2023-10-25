@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  },
+  "name": "09_ready_repository_readme",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Kendall McIntosh",
+  "license": "ISC"
+}
