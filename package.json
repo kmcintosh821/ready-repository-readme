@@ -1,14 +1,16 @@
 {
-  "dependencies": {
-    "inquirer": "^9.2.11"
-  },
   "name": "09_ready_repository_readme",
-  "description": "## Your Task",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kendall McIntosh",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "type": "commonjs"
 }
